@@ -40,7 +40,7 @@ Clean and preprocess the data to handle missing values, duplicates, and inconsis
 
 Data Analysis:
 Use statistical methods and data visualization tools (e.g., Python with Pandas and Matplotlib) to analyze the data.
-Generate insights based on the predefined questions.
+Generated insights based on the predefined questions.
 
 Reporting:
 Compile findings into a structured report highlighting key insights and recommendations based on customer behavior.
